@@ -85,7 +85,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Sydney, Australia"
   employer         : "University of Technology Sydney"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.au/citations?user=52j1jMwAAAAJ&hl=en"
   email            : "vitali.alexeev@uts.edu.au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
